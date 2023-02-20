@@ -18,7 +18,7 @@ msgstr ""
 #: /Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:WidgetTree.TextBlock_9.Text
 msgctxt ",005986EF48789316B83C53885CBD1FB8"
 msgid "清洗"
-msgstr "Waschen"
+msgstr "Reinigen"
 
 #. Key:	00986F3D49F50B3B8F6203A93FD5D846
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.Text
@@ -46,7 +46,7 @@ msgstr "Gefühl-"
 #: /Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_8.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
 msgctxt ",017C13554A303CDB96F5DAA161E199F6"
 msgid "获取技能经验"
-msgstr "Fertigkeitenerfahrung sammeln"
+msgstr "Fertigkeiten und Erfahrung sammeln"
 
 #. Key:	021FAEDD4FF6A1D1D800BF83F7A7C15E
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_Lumen.WBP_Lumen_C:WidgetTree.ShowTex.Text
@@ -67,14 +67,14 @@ msgstr "20"
 #: /Game/Blueprint/ACF/Item/Weapon/Bow/BP_ArrowBase.BP_ArrowBase_C:ExecuteUbergraph_BP_ArrowBase [Script Bytecode]
 msgctxt ",029F18BD46A2F021A1DFC69AEB53CA02"
 msgid "回收失败！"
-msgstr "Wiederherstellung fehlgeschlagen!"
+msgstr "Verwertung fehlgeschlagen!"
 
 #. Key:	0346655D46C4AF76A1D1B3943060F0AB
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_ScreenSetting.WBP_ScreenSetting_C:WidgetTree.WBP_NIS.Show In Text
 #: /Game/Blueprint/UMG/EscMenu/WBP_ScreenSetting.WBP_ScreenSetting_C:WidgetTree.WBP_NIS.Show In Text
 msgctxt ",0346655D46C4AF76A1D1B3943060F0AB"
 msgid "NIS锐化"
-msgstr "NVIDIA Image Scaling-Schärfung"
+msgstr "NVIDIA Image Scaling-Schärfe"
 
 #. Key:	03C4AFA9436A2A9CEA6F87A9A52041FC
 #. SourceLocation:	/Game/Blueprint/ACF/Player/CharacterState.CharacterState.DisplayNameMap(13 - Value).DisplayNameMap
@@ -109,7 +109,7 @@ msgstr "Wasserzulauf"
 #: /Game/Blueprint/UMG/Furniture/WBP_StoneFire.WBP_StoneFire_C:WidgetTree.WBP_AddButton.ToolTipText
 msgctxt ",04FCF26444412C856D5A75A17C9A112E"
 msgid "拖入可燃物，比如树枝，原木"
-msgstr "Ziehen Sie brennbare Materialien wie Zweige, Baumstämme hinein"
+msgstr "Ziehen Sie brennbare Materialien wie Zweige oder Baumstämme hinein"
 
 #. Key:	051EB7E247B1A161EC90F1903338C060
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_SaveSlot.WBP_SaveSlot_C:WidgetTree.Time.Text
@@ -123,7 +123,7 @@ msgstr "02.08.2020"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip6.WBP_TutorialTip6_C:WidgetTree.TextBlock.Text
 msgctxt ",054871D843E0E2B8184EAA9FC13D17B1"
 msgid "建造一个自己的工作台，并在工作台中生产木板"
-msgstr "Baue deine eigene Werkbank um Bretter zu produzieren"
+msgstr "Bauen Sie ihre eigene Werkbank um Bretter zu fertigen"
 
 #. Key:	067D9CDB4FE9E1F850C2E69B23C0B4A7
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_JXJGT.WBP_JXJGT_C:WidgetTree.Num.Text
@@ -151,14 +151,14 @@ msgstr "Ölextraktionskern"
 #: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.YZKX.Text
 msgctxt ",06DE10CA423346DE4BF690AA53181AEE"
 msgid "硬直抗性"
-msgstr "Harter Widerstand"
+msgstr "Starker Widerstand"
 
 #. Key:	06F2232E4D634350A46619B26E85B877
 #. SourceLocation:	/Game/Blueprint/UMG/InteractiveMessage/WBP_Key.WBP_Key_C:WidgetTree.TextBlock_26.Text
 #: /Game/Blueprint/UMG/InteractiveMessage/WBP_Key.WBP_Key_C:WidgetTree.TextBlock_26.Text
 msgctxt ",06F2232E4D634350A46619B26E85B877"
 msgid "E"
-msgstr "UND"
+msgstr "E"
 
 #. Key:	07183D8644DE86CCA77C28A04ABFD006
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_12.Text
@@ -200,7 +200,7 @@ msgstr "Baumaterial"
 #: /Game/Blueprint/UMG/InteractiveMessage/WBP_Key.Default__WBP_Key_C.ShowText
 msgctxt ",089EEA3E46AA1CBAAFBAFFA80CA856BE"
 msgid "E"
-msgstr "UND"
+msgstr "E"
 
 #. Key:	0928DBE0408A27E207C2D29145B40B53
 #. SourceLocation:	/Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_17.Text
@@ -214,7 +214,7 @@ msgstr "Vollständiger Zustand+"
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.HDCK_CharacterBP_C:ExecuteUbergraph_HDCK_CharacterBP [Script Bytecode]
 msgctxt ",096D56544FDEF1DB6D35EF95D685CC18"
 msgid "保存成功！"
-msgstr "Speichervorgang erfolgreich!"
+msgstr "Speichern erfolgreich!"
 
 #. Key:	09DD6DFF4B84F639A3A1B4B608B3E6C2
 #. SourceLocation:	/Game/Blueprint/UMG/State/WBP_Status.WBP_Status_C:WidgetTree.Day.Text
@@ -256,7 +256,7 @@ msgstr "Abmelden, bitte warten..."
 #: /Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.KRX.Text
 msgctxt ",0B7F4C1B45ADAE2851E196870F73FE68"
 msgid "抗热性"
-msgstr "Hitzebeständigkeit"
+msgstr "Hitzewiderstand"
 
 #. Key:	0B9FB4204723F5010819DCAE9A4DD653
 #. SourceLocation:	/Game/Blueprint/UMG/EscMenu/WBP_ScreenSetting.WBP_ScreenSetting_C:WidgetTree.WBP_Dyna.Show In Text
@@ -284,7 +284,7 @@ msgstr "Brenndauer: 0"
 #: /Game/Blueprint/Input/HDCKMappingContext.HDCKMappingContext.Mappings(10).Mappings.PlayerMappableOptions.DisplayName
 msgctxt ",0C5BBFF5443FDAB830CB348101393933"
 msgid "IA_FireMode"
-msgstr "IA_FireMode"
+msgstr "IA_FeuerModus"
 
 #. Key:	0C797E8E40ACBD720B57B4B33B461ADD
 #. SourceLocation:	/Game/Blueprint/ACF/Data/TZTable.TZTable.NewRow_7.TipMessage_41_0D1B7B6342180F0BD1D386A6C8ADE0B3
@@ -305,14 +305,14 @@ msgstr "Durchfall, verringertes Ausdauerlimit und Regeneration"
 #: /Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.YZKX.Text
 msgctxt ",0EAC4CF84F900A49A09DE09F240307B5"
 msgid "硬直抗性"
-msgstr "Harter Widerstand"
+msgstr "Starker Widerstand"
 
 #. Key:	0EC8AC2A406B6453ED52418F305B612D
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_CreateNewCharacter.WBP_CreateNewCharacter_C:ExecuteUbergraph_WBP_CreateNewCharacter [Script Bytecode]
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_CreateNewCharacter.WBP_CreateNewCharacter_C:ExecuteUbergraph_WBP_CreateNewCharacter [Script Bytecode]
 msgctxt ",0EC8AC2A406B6453ED52418F305B612D"
 msgid "已经有一个相同名字的角色或ID无效"
-msgstr "Es gibt bereits ein Zeichen oder eine ID mit demselben Namen, die ungültig ist"
+msgstr "Es gibt bereits ein ungültiges Zeichen oder eine ungültige ID mit demselben Namen"
 
 #. Key:	0EE4296D4AE97E2F2B01F4A0EC0AB712
 #. SourceLocation:	/Game/Blueprint/ACF/Player/HDCK_GameState.Default__HDCK_GameState_C:Team Manager.Teams(0 - Value).Teams.DisplayName
@@ -326,7 +326,7 @@ msgstr "Mannschaft 1"
 #: /Game/Blueprint/ACF/Item/Weapon/ACFGunBase_Shotgun.Default__ACFGunBase_Shotgun_C.ItemInfo.Name
 msgctxt ",0F76833445170B88C4F8CD8F4B1A28D2"
 msgid "870AC霰弹枪"
-msgstr "R870 Schrotflinte"
+msgstr "870AC Schrotflinte"
 
 #. Key:	0FC7B32D443EA06EF7F13BB5DC4C9447
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip5.WBP_TutorialTip5_C:WidgetTree.TextBlock_2.Text
@@ -382,7 +382,7 @@ msgstr "Dachabschluss"
 #: /Game/Blueprint/UMG/God/WBP_GodMenu.WBP_GodMenu_C:WidgetTree.TextBlock_28.Text
 msgctxt ",1213557B462F0178A0FFDBB916902739"
 msgid "时间过去一个小时"
-msgstr "Eine Stunde Vorlauf"
+msgstr "Eine Stunde ist vergangen"
 
 #. Key:	124E388D4F52DAC525AAD8B98D669128
 #. SourceLocation:	/Game/Blueprint/UMG/ScreenMessage/WBP_CarMessage.WBP_CarMessage_C:WidgetTree.Gear.Text
@@ -396,7 +396,7 @@ msgstr "1"
 #: /Game/Blueprint/ACF/Item/Base/Base_Tool.Default__Base_Tool_C.ItemInfo.Description
 msgctxt ",12821CAB41336D8F078E9D8B13F41986"
 msgid "常用于砍伐木头，必要时候页可以用来防身。"
-msgstr "Die Seite wird üblicherweise zum Schneiden von Holz verwendet, kann aber auch zur Selbstverteidigung eingesetzt werden."
+msgstr "Wird oft verwendet zum Holz schneiden, kann jedoch auch zur Selbstverteidigung genutzt werden"
 
 #. Key:	12C0B13F40681758244398A58FCF8834
 #. SourceLocation:	/Game/Blueprint/ACF/Manager/E_Weather.E_Weather.DisplayNameMap(1 - Value).DisplayNameMap
@@ -487,7 +487,7 @@ msgstr "Penicillin"
 #: /Game/Blueprint/ACF/Data/TableAsset/WeaponTable.WeaponTable.870AC霰弹枪.ItemInfo_66_F92A1A3B448C3413FD56918B4BFB9241.Name
 msgctxt ",179396904C8A16B4EA4444A1DBC55A1E"
 msgid "870AC"
-msgstr "R870 Schrotflinte"
+msgstr "870AC Schrotflinte"
 
 #. Key:	17B6B9D34796D38A9172D2AB4AFFD345
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/Child/WBP_JoinGame.WBP_JoinGame_C:WidgetTree.WBP_Search.In Text
@@ -536,7 +536,7 @@ msgstr "Aktueller Kraftstoffstand: 10/50L"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_70.In Text
 msgctxt ",1A0854374F1628CECF3A55984034F8FF"
 msgid "精细面料"
-msgstr "Feiner Stoff"
+msgstr "Feine Stoffe"
 
 #. Key:	1A1D133A4285656BE0D9CF96D5BF7ECD
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.FZX.Text
@@ -571,7 +571,7 @@ msgstr "Rotpunkt"
 #: /Game/Blueprint/UMG/Inventory/WBP_ItemToolTip.WBP_ItemToolTip_C:WidgetTree.TBFY.Text
 msgctxt ",1A99018D4B477A08E00FB4931F57A181"
 msgid "头部防御"
-msgstr "Kopfverteidigung"
+msgstr "Kopfschutz"
 
 #. Key:	1AAC7CB54CE0E6ECBB4E938608BBF85C
 #. SourceLocation:	/Game/HDCKBuildingSystem/MeshBP/Furniture_DPBase.Default__Furniture_DPBase_C.BuildInfo.Name_38_B9A5B2DC4FBEF03FBCA85592B802C50C
@@ -592,7 +592,7 @@ msgstr "Zombie-Angriff"
 #: /Game/Blueprint/UMG/MainUI/Child/WBP_ServerSetting.WBP_ServerSetting_C:WidgetTree.ShowTex.Text
 msgctxt ",1B85FB3F4B6E685DBA702D9EFCF5328A"
 msgid "最大玩家数量："
-msgstr "Maximale Anzahl von Spielern:"
+msgstr "Maximale Spieleranzahl:"
 
 #. Key:	1B8B871648287619C492CB925DC2E815
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip8.WBP_TutorialTip8_C:WidgetTree.TextBlock_2.Text
@@ -676,7 +676,7 @@ msgstr "Modell 01"
 #: /Game/Blueprint/UMG/MainUI/Child/TipCharacter.TipCharacter_C:WidgetTree.TextBlock_107.Text
 msgctxt ",1D7C34834DD7C440C59867B541E1F4EF"
 msgid "确认删除角色吗？"
-msgstr "Möchten Sie den Charakter wirklich löschen?"
+msgstr "Möchten Sie disen Charakter wirklich löschen?"
 
 #. Key:	1E0E1014475CBA9F745970B164487715
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Book/AutoCreate/BP_Book_JXX02.Default__BP_Book_JXX02_C.ItemInfo.Name
@@ -1075,7 +1075,7 @@ msgstr "Maschinenreparatur (Band 4)"
 #: /Game/Blueprint/UMG/Furniture/WBP_CarInventory01.WBP_CarInventory01_C:WidgetTree.Repir.ToolTipText
 msgctxt ",32F2C50042D534BEAA1662A2087AC8CA"
 msgid "放入汽车修理套件维修"
-msgstr "Legen Sie für Reparaturen ein Autoreparaturset hinein"
+msgstr "Legen Sie ein Autoreparaturset zur Reparatur ein."
 
 #. Key:	330C2123417837492F10DB97418C4923
 #. SourceLocation:	/Game/Blueprint/ACF/Item/Tool/Item_NotUse_Tool_Base.Default__Item_NotUse_Tool_Base_C.ItemInfo.Description
@@ -1103,14 +1103,14 @@ msgstr "Boden"
 #: /Game/Blueprint/AI/SpawnAi/BP_AIOSpawnerHDCK.BP_AIOSpawnerHDCK_C:GenerateSpawnPoints [Script Bytecode]
 msgctxt ",33A4C5C84762B0FABA98AD81D6662884"
 msgid "Generate Spawn Points"
-msgstr "Generiert Spawnpunkte"
+msgstr "Generiere Spawnpunkte"
 
 #. Key:	345B92054EC055355AB3009E0BE9AED8
 #. SourceLocation:	/Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(5 - Value).DisplayNameMap
 #: /Game/HDCKBuildingSystem/Table/E_SelectTypeChild.E_SelectTypeChild.DisplayNameMap(5 - Value).DisplayNameMap
 msgctxt ",345B92054EC055355AB3009E0BE9AED8"
 msgid "Roof45"
-msgstr "Dach45"
+msgstr "Dach 45"
 
 #. Key:	34BA075949BEF9CEFE77D392D7825102
 #. SourceLocation:	/Game/Blueprint/UMG/MainUI/WBP_StartButton.Default__WBP_StartButton_C.In Text
